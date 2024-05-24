@@ -1,3 +1,17 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# @diotobtea/deserunt-enim-package
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+A tiny utility to reverse the provided string.
+
+## example:
+
+```js
+> var reveseTheString = require('@diotobtea/deserunt-enim');
+undefined
+> let reverseVal = reveseTheString('sample text');
+```
+
+## install:
+
+    npm install @diotobtea/deserunt-enim
+
+## license:
